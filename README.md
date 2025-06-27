@@ -6,6 +6,8 @@ This is the presentation + code implementation presented in the Sorbonne Worksho
 
 Everything and installation are well defined on the Google Collab but if you want to self-install in your local machine, please follow these steps
 
+- [Tutorial part](https://colab.research.google.com/github/huybinhtr/workshopS/blob/main/Tutorial.ipynb)
+
 #### Step 1: Install `myQLM-fermion`
 ```bash
 git clone https://github.com/myQLM/myqlm-fermion.git
