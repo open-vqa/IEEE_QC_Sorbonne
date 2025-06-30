@@ -1,6 +1,8 @@
 
 ## Auther: HUYBIN TRAN
 
+## This is a fork of the repo https://github.com/huybinhtr/workshopS
+
 
 ### 2025 IEEE CIS SUMMER SCHOOL ON QUANTUM COMPUTATIONAL INTELLIGENCE
 -----------
