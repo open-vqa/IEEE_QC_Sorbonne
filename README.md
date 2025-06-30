@@ -1,3 +1,7 @@
+
+#Auther: HUYBIN TRAN
+
+
 ### 2025 IEEE CIS SUMMER SCHOOL ON QUANTUM COMPUTATIONAL INTELLIGENCE
 -----------
 This is the presentation + code implementation presented in the Sorbonne Workshop under the title "**Quantum Computing for Quantum Chemistry - Review on spin model**"
@@ -31,7 +35,7 @@ pip install -e .
 ```
 Last step is to clone this git respo as command below 
 ```bash
-git clone https://github.com/huybinhtr/workshopS
+git clone https://github.com/open-vqa/IEEE_QC_Sorbonne
 ```
 
 Now you can start to hands-on the the `tutorial.ipynb` that composed of three internal .py file:
