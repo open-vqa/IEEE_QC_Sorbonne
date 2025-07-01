@@ -1,11 +1,10 @@
-
-## Auther: HUYBIN TRAN
-
-## This is a fork of the repo https://github.com/huybinhtr/workshopS
-
-
 ### 2025 IEEE CIS SUMMER SCHOOL ON QUANTUM COMPUTATIONAL INTELLIGENCE
 -----------
+
+#### Created By [Huy Binh Tran](https://github.com/huybinhtr)
+
+#### Lessons delivered By Dr. Mohammad Haidar
+
 This is the presentation + code implementation presented in the Sorbonne Workshop under the title "**Quantum Computing for Quantum Chemistry - Review on spin model**"
 
 **Getting started**
